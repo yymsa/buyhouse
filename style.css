@@ -1,0 +1,788 @@
+@media screen and (min-width: 1000px) {
+  .d1 {
+    width: 100%;
+    height: 85px;
+    background-color: #151B54;
+  }
+  .d1 .fh1 {
+    text-align: center;
+  }
+  .d2 {
+    width: 100%;
+    height: 250px;
+    background-color: white;
+  }
+  .d2 .d21 {
+    width: 30%;
+    height: 100%;
+    background-color: white;
+    position: left;
+  }
+  .d2 .d21 .im1 {
+    width: 160px;
+    height: 160px;
+    position: absolute;
+    left: 13%;
+    top: 17%;
+  }
+  .d2 .d22 {
+    width: 70%;
+    height: 100%;
+    position: relative;
+    left: 30%;
+    bottom: 100%;
+    background-color: white;
+  }
+  .d2 .d22 .u1 {
+    position: absolute;
+    right: 28%;
+    list-style: none;
+  }
+  .d2 .d22 .u1 .l1 {
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  .d2 .d22 .u1 .l1 .im2 {
+    width: 38px;
+    height: 38px;
+  }
+  .d2 .d22 .u11 {
+    position: absolute;
+    right: 63%;
+    list-style: none;
+  }
+  .d2 .d22 .u11 .l11 {
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  .d2 .d22 .u11 .l11 .im2 {
+    width: 38px;
+    height: 38px;
+  }
+  .d2 .d22 .u2 {
+    position: absolute;
+    right: 35%;
+    list-style: none;
+  }
+  .d2 .d22 .u2 .l2 {
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  .d2 .d22 .u22 {
+    position: absolute;
+    right: 70%;
+    list-style: none;
+  }
+  .d2 .d22 .u22 .l22 {
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  .d3 {
+    width: 40%;
+    height: 230px;
+    opacity: 1;
+    position: relative;
+    left: 30%;
+    border-bottom: 1px solid black;
+  }
+  .d3 .d31 {
+    width: 100%;
+    height: 48%;
+    opacity: 1;
+    position: absolute;
+    top: 0%;
+  }
+  .d3 .d31 .im3 {
+    width: 32.5%;
+    height: 100%;
+    border-radius: 20px;
+    border: 1px solid black;
+  }
+  .d3 .d32 {
+    width: 100%;
+    height: 48%;
+    opacity: 1;
+    position: absolute;
+    bottom: 0%;
+  }
+  .d3 .d32 .im4 {
+    width: 49%;
+    height: 100%;
+    border-radius: 20px;
+    border: 1px solid black;
+  }
+  .container {
+    width: 90%;
+    height: 600px;
+    background-color: #151B54;
+  }
+  .container .d4 {
+    width: 33.33%;
+    height: 300px;
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 20px;
+  }
+  .container .d4 .im5 {
+    width: 100%;
+    height: 70%;
+    border: 1px solid black;
+    border-radius: 20px;
+  }
+  .container .d41 .inn {
+    width: 50%;
+    height: 195px;
+    background-color: white;
+    border: 2px solid black;
+    border-radius: 20px;
+    position: relative;
+    right: -30%;
+    bottom: 15%;
+    display: none;
+  }
+  .container .d41 .inn .inn1 {
+    position: absolute;
+    left: -10%;
+    list-style: none;
+  }
+  .container .d41 .inn .inn1 .innl1 {
+    padding-top: 10px;
+  }
+  .container .d41 .inn .inn2 {
+    position: absolute;
+    right: 3%;
+    list-style: none;
+  }
+  .container .d41 .inn .inn2 .innl2 {
+    padding-top: 10px;
+  }
+  .container .d41 .inn .cls {
+    position: absolute;
+    bottom: 1%;
+    left: 35%;
+  }
+  .container .d42 .inn {
+    width: 50%;
+    height: 195px;
+    background-color: white;
+    border: 2px solid black;
+    border-radius: 20px;
+    position: relative;
+    right: -30%;
+    bottom: 15%;
+    display: none;
+  }
+  .container .d42 .inn .inn1 {
+    position: absolute;
+    left: -10%;
+    list-style: none;
+  }
+  .container .d42 .inn .inn1 .innl1 {
+    padding-top: 10px;
+  }
+  .container .d42 .inn .inn2 {
+    position: absolute;
+    right: 3%;
+    list-style: none;
+  }
+  .container .d42 .inn .inn2 .innl2 {
+    padding-top: 10px;
+  }
+  .container .d42 .inn .cls {
+    position: absolute;
+    bottom: 1%;
+    left: 35%;
+  }
+  .container .d43 .inn {
+    width: 50%;
+    height: 195px;
+    background-color: white;
+    border: 2px solid black;
+    border-radius: 20px;
+    position: relative;
+    right: -30%;
+    bottom: 15%;
+    display: none;
+  }
+  .container .d43 .inn .inn1 {
+    position: absolute;
+    left: -10%;
+    list-style: none;
+  }
+  .container .d43 .inn .inn1 .innl1 {
+    padding-top: 10px;
+  }
+  .container .d43 .inn .inn2 {
+    position: absolute;
+    right: 3%;
+    list-style: none;
+  }
+  .container .d43 .inn .inn2 .innl2 {
+    padding-top: 10px;
+  }
+  .container .d43 .inn .cls {
+    position: absolute;
+    bottom: 1%;
+    left: 35%;
+  }
+  .container .d44 .inn {
+    width: 50%;
+    height: 195px;
+    background-color: white;
+    border: 2px solid black;
+    border-radius: 20px;
+    position: relative;
+    right: -30%;
+    bottom: 15%;
+    display: none;
+  }
+  .container .d44 .inn .inn1 {
+    position: absolute;
+    left: -10%;
+    list-style: none;
+  }
+  .container .d44 .inn .inn1 .innl1 {
+    padding-top: 10px;
+  }
+  .container .d44 .inn .inn2 {
+    position: absolute;
+    right: 3%;
+    list-style: none;
+  }
+  .container .d44 .inn .inn2 .innl2 {
+    padding-top: 10px;
+  }
+  .container .d44 .inn .cls {
+    position: absolute;
+    bottom: 1%;
+    left: 35%;
+  }
+  .container .d45 .inn {
+    width: 50%;
+    height: 195px;
+    background-color: white;
+    border: 2px solid black;
+    border-radius: 20px;
+    position: relative;
+    right: -30%;
+    bottom: 15%;
+    display: none;
+    z-index: 200;
+  }
+  .container .d45 .inn .inn1 {
+    position: absolute;
+    left: -15%;
+    list-style: none;
+  }
+  .container .d45 .inn .inn1 .innl1 {
+    padding-top: 10px;
+    width: 10%;
+  }
+  .container .d45 .inn .inn2 {
+    position: absolute;
+    right: 3%;
+    list-style: none;
+  }
+  .container .d45 .inn .inn2 .innl2 {
+    padding-top: 10px;
+  }
+  .container .d45 .inn .cls {
+    position: absolute;
+    bottom: 1%;
+    left: 35%;
+  }
+  .container .d46 .inn {
+    width: 50%;
+    height: 195px;
+    background-color: white;
+    border: 2px solid black;
+    border-radius: 20px;
+    position: relative;
+    right: -30%;
+    bottom: 15%;
+    display: none;
+  }
+  .container .d46 .inn .inn1 {
+    position: absolute;
+    left: -10%;
+    list-style: none;
+  }
+  .container .d46 .inn .inn1 .innl1 {
+    padding-top: 10px;
+  }
+  .container .d46 .inn .inn2 {
+    position: absolute;
+    right: 3%;
+    list-style: none;
+  }
+  .container .d46 .inn .inn2 .innl2 {
+    padding-top: 10px;
+  }
+  .container .d46 .inn .cls {
+    position: absolute;
+    bottom: 1%;
+    left: 35%;
+  }
+  .teext {
+    width: 60%;
+    height: 100px;
+    opacity: 1;
+    position: relative;
+    left: 20%;
+  }
+  .teext .fh6, .teext .sh6, .teext .th6 {
+    text-align: center;
+    color: gray;
+  }
+  .fi {
+    width: 36%;
+    height: 50px;
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 30px;
+    position: relative;
+    left: 32%;
+  }
+  .fi .bf1 {
+    position: absolute;
+    right: 15%;
+    top: 15%;
+  }
+  .fi .ff {
+    width: 140px;
+    height: 32px;
+    border: 1px solid black;
+    border-radius: 20px;
+    background-color: blue;
+    position: absolute;
+    left: 15%;
+    top: 20%;
+    color: white;
+  }
+  .fi .ff .bf2 {
+    position: absolute;
+    left: 5%;
+  }
+  .fi .ff .bf2 .sel {
+    border-radius: 20px;
+    position: absolute;
+    top: 10%;
+    right: -155%;
+  }
+  .onS, .onSm {
+    display: none;
+  }
+}
+@media screen and (max-width: 1000px) {
+  .d1 {
+    width: 100%;
+    height: 120px;
+    background-color: #151B54;
+  }
+  .d1 .fh1 {
+    text-align: center;
+    font-size: 42px;
+  }
+  .d2 {
+    display: none;
+  }
+  .onSm {
+    width: 100%;
+    height: 500px;
+    background-color: white;
+  }
+  .onSm .onSm1 {
+    width: 20%;
+    height: 500px;
+    background-color: white;
+    position: absolute;
+    right: 0%;
+  }
+  .onSm .onSm1 .us1 {
+    list-style: none;
+    position: absolute;
+    left: 2%;
+  }
+  .onSm .onSm1 .us1 .l1s {
+    padding-top: 17px;
+  }
+  .onSm .onSm1 .us1 .l1s .im1s {
+    width: 60px;
+    height: 60px;
+  }
+  .onSm .onSm2 {
+    width: 40%;
+    height: 500px;
+    background-color: white;
+    position: absolute;
+    right: 20%;
+  }
+  .onSm .onSm2 .us2 {
+    list-style: none;
+    position: absolute;
+    right: 2%;
+  }
+  .onSm .onSm2 .us2 .l2s {
+    padding-top: 15px;
+  }
+  .onSm .onSm2 .us2 .l2s .a1s {
+    font-size: 32px;
+  }
+  .onSm .onSm3 {
+    width: 40%;
+    height: 500px;
+    background-color: white;
+    position: absolute;
+    left: 0%;
+  }
+  .onSm .onSm3 .im2s {
+    width: 60%;
+    height: 200px;
+    position: absolute;
+    left: 25%;
+    top: 20%;
+  }
+  .d3 {
+    width: 80%;
+    height: 400px;
+    opacity: 1;
+    position: relative;
+    left: 10%;
+    border-bottom: 1px solid black;
+  }
+  .d3 .d31 {
+    width: 100%;
+    height: 48%;
+    opacity: 1;
+    position: absolute;
+    top: 0%;
+  }
+  .d3 .d31 .im3 {
+    width: 32.5%;
+    height: 100%;
+    border: 1px solid black;
+    border-radius: 20px;
+  }
+  .d3 .d32 {
+    width: 100%;
+    height: 48%;
+    opacity: 1;
+    position: absolute;
+    bottom: 0%;
+  }
+  .d3 .d32 .im4 {
+    width: 49.5%;
+    height: 100%;
+    border: 1px solid black;
+    border-radius: 20px;
+  }
+  .container {
+    width: 100%;
+    height: 2700px;
+    background-color: #151B54;
+  }
+  .container .d4 {
+    width: 100%;
+    height: 450px;
+    border: 1px solid black;
+    border-radius: 20px;
+    background-color: white;
+  }
+  .container .d4 .im5 {
+    width: 100%;
+    height: 70%;
+    border: 1px solid black;
+    border-radius: 20px;
+  }
+  .container .d4 .b1 {
+    font-size: 22px;
+  }
+  .container .d41 .inn {
+    width: 40%;
+    height: 230px;
+    z-index: 200;
+    background-color: white;
+    border: 2px solid black;
+    border-radius: 20px;
+    position: relative;
+    right: -25%;
+    bottom: 15%;
+    display: none;
+  }
+  .container .d41 .inn .bot1, .container .d41 .inn .bot2 {
+    font-size: 32px;
+  }
+  .container .d41 .inn .inn1 {
+    position: absolute;
+    left: -10%;
+    list-style: none;
+  }
+  .container .d41 .inn .inn1 .innl1 {
+    padding-top: 10px;
+    font-size: 32px;
+  }
+  .container .d41 .inn .inn2 {
+    position: absolute;
+    right: 3%;
+    list-style: none;
+  }
+  .container .d41 .inn .inn2 .innl2 {
+    padding-top: 10px;
+    font-size: 32px;
+  }
+  .container .d41 .inn .cls {
+    position: absolute;
+    bottom: 1%;
+    left: 35%;
+    font-size: 28px;
+  }
+  .container .d42 .inn {
+    width: 40%;
+    height: 230px;
+    z-index: 200;
+    background-color: white;
+    border: 2px solid black;
+    border-radius: 20px;
+    position: relative;
+    right: -25%;
+    bottom: 15%;
+    display: none;
+  }
+  .container .d42 .inn .bot1, .container .d42 .inn .bot2 {
+    font-size: 32px;
+  }
+  .container .d42 .inn .inn1 {
+    position: absolute;
+    left: -10%;
+    list-style: none;
+  }
+  .container .d42 .inn .inn1 .innl1 {
+    padding-top: 10px;
+    font-size: 32px;
+  }
+  .container .d42 .inn .inn2 {
+    position: absolute;
+    right: 3%;
+    list-style: none;
+  }
+  .container .d42 .inn .inn2 .innl2 {
+    padding-top: 10px;
+    font-size: 32px;
+  }
+  .container .d42 .inn .cls {
+    position: absolute;
+    bottom: 1%;
+    left: 35%;
+    font-size: 28px;
+  }
+  .container .d43 .inn {
+    width: 40%;
+    height: 230px;
+    z-index: 200;
+    background-color: white;
+    border: 2px solid black;
+    border-radius: 20px;
+    position: relative;
+    right: -25%;
+    bottom: 15%;
+    display: none;
+  }
+  .container .d43 .inn .bot1, .container .d43 .inn .bot2 {
+    font-size: 32px;
+  }
+  .container .d43 .inn .inn1 {
+    position: absolute;
+    left: -10%;
+    list-style: none;
+  }
+  .container .d43 .inn .inn1 .innl1 {
+    padding-top: 10px;
+    font-size: 32px;
+  }
+  .container .d43 .inn .inn2 {
+    position: absolute;
+    right: 3%;
+    list-style: none;
+  }
+  .container .d43 .inn .inn2 .innl2 {
+    padding-top: 10px;
+    font-size: 32px;
+  }
+  .container .d43 .inn .cls {
+    position: absolute;
+    bottom: 1%;
+    left: 35%;
+    font-size: 28px;
+  }
+  .container .d44 .inn {
+    width: 40%;
+    height: 230px;
+    z-index: 200;
+    background-color: white;
+    border: 2px solid black;
+    border-radius: 20px;
+    position: relative;
+    right: -25%;
+    bottom: 15%;
+    display: none;
+  }
+  .container .d44 .inn .bot1, .container .d44 .inn .bot2 {
+    font-size: 32px;
+  }
+  .container .d44 .inn .inn1 {
+    position: absolute;
+    left: -10%;
+    list-style: none;
+  }
+  .container .d44 .inn .inn1 .innl1 {
+    padding-top: 10px;
+    font-size: 32px;
+  }
+  .container .d44 .inn .inn2 {
+    position: absolute;
+    right: 3%;
+    list-style: none;
+  }
+  .container .d44 .inn .inn2 .innl2 {
+    padding-top: 10px;
+    font-size: 32px;
+  }
+  .container .d44 .inn .cls {
+    position: absolute;
+    bottom: 1%;
+    left: 35%;
+    font-size: 28px;
+  }
+  .container .d45 .inn {
+    width: 40%;
+    height: 230px;
+    z-index: 200;
+    background-color: white;
+    border: 2px solid black;
+    border-radius: 20px;
+    position: relative;
+    right: -25%;
+    bottom: 15%;
+    display: none;
+  }
+  .container .d45 .inn .bot1, .container .d45 .inn .bot2 {
+    font-size: 32px;
+  }
+  .container .d45 .inn .inn1 {
+    position: absolute;
+    left: -10%;
+    list-style: none;
+  }
+  .container .d45 .inn .inn1 .innl1 {
+    padding-top: 10px;
+    font-size: 32px;
+  }
+  .container .d45 .inn .inn2 {
+    position: absolute;
+    right: 3%;
+    list-style: none;
+  }
+  .container .d45 .inn .inn2 .innl2 {
+    padding-top: 10px;
+    font-size: 32px;
+  }
+  .container .d45 .inn .cls {
+    position: absolute;
+    bottom: 1%;
+    left: 35%;
+    font-size: 28px;
+  }
+  .container .d46 .inn {
+    width: 40%;
+    height: 230px;
+    z-index: 200;
+    background-color: white;
+    border: 2px solid black;
+    border-radius: 20px;
+    position: relative;
+    right: -25%;
+    bottom: 15%;
+    display: none;
+  }
+  .container .d46 .inn .bot1, .container .d46 .inn .bot2 {
+    font-size: 32px;
+  }
+  .container .d46 .inn .inn1 {
+    position: absolute;
+    left: -10%;
+    list-style: none;
+  }
+  .container .d46 .inn .inn1 .innl1 {
+    padding-top: 10px;
+    font-size: 32px;
+  }
+  .container .d46 .inn .inn2 {
+    position: absolute;
+    right: 3%;
+    list-style: none;
+  }
+  .container .d46 .inn .inn2 .innl2 {
+    padding-top: 10px;
+    font-size: 32px;
+  }
+  .container .d46 .inn .cls {
+    position: absolute;
+    bottom: 1%;
+    left: 35%;
+    font-size: 28px;
+  }
+  .teext {
+    width: 60%;
+    height: 350px;
+    opacity: 1;
+    position: relative;
+    left: 20%;
+  }
+  .teext .fh6, .teext .sh6, .teext .th6 {
+    text-align: center;
+    color: gray;
+    font-size: 35px;
+  }
+  .fi {
+    width: 50%;
+    height: 150px;
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 30px;
+    position: relative;
+    left: 25%;
+  }
+  .fi .bf1 {
+    position: absolute;
+    height: 85px;
+    right: 12%;
+    top: 15%;
+    font-size: 32px;
+  }
+  .fi .ff {
+    width: 280px;
+    height: 85px;
+    border: 1px solid black;
+    border-radius: 20px;
+    background-color: blue;
+    position: absolute;
+    left: 10%;
+    top: 20%;
+    color: white;
+  }
+  .fi .ff .bf2 {
+    position: absolute;
+    left: 5%;
+    font-size: 32px;
+  }
+  .fi .ff .bf2 label {
+    font-size: 32px;
+  }
+  .fi .ff .bf2 .sel {
+    border-radius: 20px;
+    position: absolute;
+    top: 40%;
+    left: 140%;
+    font-size: 32px;
+  }
+}/*# sourceMappingURL=style.css.map */

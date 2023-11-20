@@ -1,0 +1,812 @@
+@media screen and (min-width:1000px){
+    .d1{
+        width: 100%;
+        height: 85px;
+        background-color: #151B54;
+        .fh1{
+            text-align: center;
+        }
+    }
+    .d2{
+        width: 100%;
+        height: 250px;
+        background-color: white;
+        .d21{
+            width: 30%;
+            height: 100%;
+            background-color: white;
+            position: left;
+            .im1{
+                width: 160px;
+                height: 160px;
+                position: absolute;
+                left: 13%;
+                top: 17%;
+            }
+        }
+        .d22{
+            width: 70%;
+            height: 100%;
+            position: relative;
+            left: 30%;
+            bottom: 100%;
+            background-color: white;
+            .u1{
+                position: absolute;
+                right: 28%;
+                list-style: none;
+                .l1{
+                    padding-top: 10px;
+                    padding-bottom: 10px;
+                    .im2{
+                        width: 38px;
+                        height: 38px;
+                    }
+                }
+            }
+            .u11{
+                position: absolute;
+                right: 63%;
+                list-style: none;
+                .l11{
+                    padding-top: 10px;
+                    padding-bottom: 10px;
+                    .im2{
+                        width: 38px;
+                        height: 38px;
+                    }
+                }
+            }
+            .u2{
+                position: absolute;
+                right: 35%;
+                list-style: none;
+                .l2{
+                    padding-top: 10px;
+                    padding-bottom: 10px;
+                }
+            }
+            .u22{
+                position: absolute;
+                right: 70%;
+                list-style: none;
+                .l22{
+                    padding-top: 10px;
+                    padding-bottom: 10px;
+                }
+            }
+        }
+    }
+    .d3{
+        width: 40%;
+        height: 230px;
+        opacity: 1;
+        position: relative;
+        left: 30%;
+        border-bottom: 1px solid black;
+        .d31{
+            width: 100%;
+            height: 48%;
+            opacity: 1;
+            position: absolute;
+            top: 0%;
+            .im3{
+                width: 32.5%;
+                height: 100%;
+                border-radius: 20px;
+                border: 1px solid black;
+            }
+        }
+        .d32{
+            width: 100%;
+            height: 48%;
+            opacity: 1;
+            position: absolute;
+            bottom: 0%;
+            .im4{
+                width: 49%;
+                height: 100%;
+                border-radius: 20px;
+                border: 1px solid black;
+            }
+        }
+    }
+    .container{
+        width: 90%;
+        height: 600px;
+        background-color: #151B54;
+        .d4{
+            width: 33.33%;
+            height: 300px;
+            background-color: white;
+            border: 1px solid black;
+            border-radius: 20px;
+            .im5{
+                width: 100%;
+                height: 70%;
+                border: 1px solid black;
+                border-radius: 20px;
+            }
+        }
+        .d41{
+            .inn{
+                width: 50%;
+                height: 195px;
+                background-color: white;
+                border: 2px solid black;
+                border-radius: 20px;
+                position: relative;
+                right: -30%;
+                bottom: 15%;
+                display: none;
+                .inn1{
+                    position: absolute;
+                    left: -10%;
+                    list-style: none;
+                    .innl1{
+                        padding-top: 10px;
+                    }
+                }
+                .inn2{
+                    position: absolute;
+                    right: 3%;
+                    list-style: none;
+                    .innl2{
+                        padding-top: 10px;
+                    }
+                }
+                .cls{
+                    position: absolute;
+                    bottom: 1%;
+                    left: 35%;
+                }
+            }
+        }
+        .d42{
+            .inn{
+                width: 50%;
+                height: 195px;
+                background-color: white;
+                border: 2px solid black;
+                border-radius: 20px;
+                position: relative;
+                right: -30%;
+                bottom: 15%;
+                display: none;
+                .inn1{
+                    position: absolute;
+                    left: -10%;
+                    list-style: none;
+                    .innl1{
+                        padding-top: 10px;
+                    }
+                }
+                .inn2{
+                    position: absolute;
+                    right: 3%;
+                    list-style: none;
+                    .innl2{
+                        padding-top: 10px;
+                    }
+                }
+                .cls{
+                    position: absolute;
+                    bottom: 1%;
+                    left: 35%;
+                }
+            }
+        }
+        .d43{
+            .inn{
+                width: 50%;
+                height: 195px;
+                background-color: white;
+                border: 2px solid black;
+                border-radius: 20px;
+                position: relative;
+                right: -30%;
+                bottom: 15%;
+                display: none;
+                .inn1{
+                    position: absolute;
+                    left: -10%;
+                    list-style: none;
+                    .innl1{
+                        padding-top: 10px;
+                    }
+                }
+                .inn2{
+                    position: absolute;
+                    right: 3%;
+                    list-style: none;
+                    .innl2{
+                        padding-top: 10px;
+                    }
+                }
+                .cls{
+                    position: absolute;
+                    bottom: 1%;
+                    left: 35%;
+                }
+            }
+        }
+        .d44{
+            .inn{
+                width: 50%;
+                height: 195px;
+                background-color: white;
+                border: 2px solid black;
+                border-radius: 20px;
+                position: relative;
+                right: -30%;
+                bottom: 15%;
+                display: none;
+                .inn1{
+                    position: absolute;
+                    left: -10%;
+                    list-style: none;
+                    .innl1{
+                        padding-top: 10px;
+                    }
+                }
+                .inn2{
+                    position: absolute;
+                    right: 3%;
+                    list-style: none;
+                    .innl2{
+                        padding-top: 10px;
+                    }
+                }
+                .cls{
+                    position: absolute;
+                    bottom: 1%;
+                    left: 35%;
+                }
+            }
+        }
+        .d45{
+            .inn{
+                width: 50%;
+                height: 195px;
+                background-color: white;
+                border: 2px solid black;
+                border-radius: 20px;
+                position: relative;
+                right: -30%;
+                bottom: 15%;
+                display: none;
+                z-index: 200;
+                .inn1{
+                    position: absolute;
+                    left: -15%;
+                    list-style: none;
+                    .innl1{
+                        padding-top: 10px;
+                        width: 10%;
+                    }
+                }
+                .inn2{
+                    position: absolute;
+                    right: 3%;
+                    list-style: none;
+                    .innl2{
+                        padding-top: 10px;
+                    }
+                }
+                .cls{
+                    position: absolute;
+                    bottom: 1%;
+                    left: 35%;
+                }
+            }
+        }
+        .d46{
+            .inn{
+                width: 50%;
+                height: 195px;
+                background-color: white;
+                border: 2px solid black;
+                border-radius: 20px;
+                position: relative;
+                right: -30%;
+                bottom: 15%;
+                display: none;
+                .inn1{
+                    position: absolute;
+                    left: -10%;
+                    list-style: none;
+                    .innl1{
+                        padding-top: 10px;
+                    }
+                }
+                .inn2{
+                    position: absolute;
+                    right: 3%;
+                    list-style: none;
+                    .innl2{
+                        padding-top: 10px;
+                    }
+                }
+                .cls{
+                    position: absolute;
+                    bottom: 1%;
+                    left: 35%;
+                }
+            }
+        }
+    }
+    .teext{
+        width: 60%;
+        height: 100px;
+        opacity: 1;
+        position: relative;
+        left: 20%;
+        .fh6, .sh6, .th6{
+            text-align: center;
+            color: gray;
+        }
+    }
+    .fi{
+        width: 36%;
+        height: 50px;
+        background-color: white;
+        border: 1px solid black;
+        border-radius: 30px;
+        position: relative;
+        left: 32%;
+        .bf1{
+            position: absolute;
+            right: 15%;
+            top: 15%;
+        }
+        .ff{
+            width: 140px;
+            height: 32px;
+            border: 1px solid black;
+            border-radius: 20px;
+            background-color: blue;
+            position: absolute;
+            left: 15%;
+            top: 20%;
+            color: white;
+            .bf2{
+                position: absolute;
+                left: 5%;
+                .sel{
+                    border-radius: 20px;
+                    position: absolute;
+                    top: 10%;
+                    right: -155%;
+                }
+            }
+        }
+    }
+    .onS, .onSm{
+        display: none;
+    }
+}
+@media screen and (max-width:1000px){
+    .d1{
+        width: 100%;
+        height: 120px;
+        background-color: #151B54;
+        .fh1{
+            text-align: center;
+            font-size: 42px;
+        }
+    }
+    .d2{
+        display: none;;
+    }
+    .onSm{
+        width: 100%;
+        height: 500px;
+        background-color: white;
+        .onSm1{
+            width: 20%;
+            height: 500px;
+            background-color: white;
+            position: absolute;
+            right: 0%;
+            .us1{
+                list-style: none;
+                position: absolute;
+                left: 2%;
+                .l1s{
+                    padding-top: 17px;
+                    .im1s{
+                        width: 60px;
+                        height: 60px;
+                    }
+                }
+            }
+        }
+        .onSm2{
+            width: 40%;
+            height: 500px;
+            background-color: white;
+            position: absolute;
+            right: 20%;
+            .us2{
+                list-style: none;
+                position: absolute;
+                right: 2%;
+                .l2s{
+                    padding-top: 15px;
+                    .a1s{
+                        font-size: 32px;
+                    }
+                }
+            }
+        }
+        .onSm3{
+            width: 40%;
+            height: 500px;
+            background-color: white;
+            position: absolute;
+            left: 0%;
+            .im2s{
+                width: 60%;
+                height: 200px;
+                position: absolute;
+                left: 25%;
+                top: 20%
+            }
+        }
+    }
+    .d3{
+        width: 80%;
+        height: 400px;
+        opacity: 1;
+        position: relative;
+        left: 10%;
+        border-bottom: 1px solid black;
+        .d31{
+            width: 100%;
+            height: 48%;
+            opacity: 1;
+            position: absolute;
+            top: 0%;
+            .im3{
+                width: 32.5%;
+                height: 100%;
+                border: 1px solid black;
+                border-radius: 20px;
+            }
+        }
+        .d32{
+            width: 100%;
+            height: 48%;
+            opacity: 1;
+            position: absolute;
+            bottom: 0%;
+            .im4{
+                width: 49.5%;
+                height: 100%;
+                border: 1px solid black;
+                border-radius: 20px;
+            }
+        }
+    }
+    .container{
+        width: 100%;
+        height: 2700px;
+        background-color: #151B54;
+        .d4{
+            width: 100%;
+            height: 450px;
+            border: 1px solid black;
+            border-radius: 20px;
+            background-color: white;
+            .im5{
+                width: 100%;
+                height: 70%;
+                border: 1px solid black;
+                border-radius: 20px;
+            }
+            .b1{
+                font-size: 22px;
+            }
+        }
+        .d41{
+            .inn{
+                width: 40%;
+                height: 230px;
+                z-index: 200;
+                background-color: white;
+                border: 2px solid black;
+                border-radius: 20px;
+                position: relative;
+                right: -25%;
+                bottom: 15%;
+                display: none;
+                .bot1, .bot2{
+                    font-size: 32px;
+                }
+                .inn1{
+                    position: absolute;
+                    left: -10%;
+                    list-style: none;
+                    .innl1{
+                        padding-top: 10px;
+                        font-size: 32px;
+                    }
+                }
+                .inn2{
+                    position: absolute;
+                    right: 3%;
+                    list-style: none;
+                    .innl2{
+                        padding-top: 10px;
+                        font-size: 32px;
+                    }
+                }
+                .cls{
+                    position: absolute;
+                    bottom: 1%;
+                    left: 35%;
+                    font-size: 28px;
+                }
+            }
+        }
+        .d42{
+            .inn{
+                width: 40%;
+                height: 230px;
+                z-index: 200;
+                background-color: white;
+                border: 2px solid black;
+                border-radius: 20px;
+                position: relative;
+                right: -25%;
+                bottom: 15%;
+                display: none;
+                .bot1, .bot2{
+                    font-size: 32px;
+                }
+                .inn1{
+                    position: absolute;
+                    left: -10%;
+                    list-style: none;
+                    .innl1{
+                        padding-top: 10px;
+                        font-size: 32px;
+                    }
+                }
+                .inn2{
+                    position: absolute;
+                    right: 3%;
+                    list-style: none;
+                    .innl2{
+                        padding-top: 10px;
+                        font-size: 32px;
+                    }
+                }
+                .cls{
+                    position: absolute;
+                    bottom: 1%;
+                    left: 35%;
+                    font-size: 28px;
+                }
+            }
+        }
+        .d43{
+            .inn{
+                width: 40%;
+                height: 230px;
+                z-index: 200;
+                background-color: white;
+                border: 2px solid black;
+                border-radius: 20px;
+                position: relative;
+                right: -25%;
+                bottom: 15%;
+                display: none;
+                .bot1, .bot2{
+                    font-size: 32px;
+                }
+                .inn1{
+                    position: absolute;
+                    left: -10%;
+                    list-style: none;
+                    .innl1{
+                        padding-top: 10px;
+                        font-size: 32px;
+                    }
+                }
+                .inn2{
+                    position: absolute;
+                    right: 3%;
+                    list-style: none;
+                    .innl2{
+                        padding-top: 10px;
+                        font-size: 32px;
+                    }
+                }
+                .cls{
+                    position: absolute;
+                    bottom: 1%;
+                    left: 35%;
+                    font-size: 28px;
+                }
+            }
+        }
+        .d44{
+            .inn{
+                width: 40%;
+                height: 230px;
+                z-index: 200;
+                background-color: white;
+                border: 2px solid black;
+                border-radius: 20px;
+                position: relative;
+                right: -25%;
+                bottom: 15%;
+                display: none;
+                .bot1, .bot2{
+                    font-size: 32px;
+                }
+                .inn1{
+                    position: absolute;
+                    left: -10%;
+                    list-style: none;
+                    .innl1{
+                        padding-top: 10px;
+                        font-size: 32px;
+                    }
+                }
+                .inn2{
+                    position: absolute;
+                    right: 3%;
+                    list-style: none;
+                    .innl2{
+                        padding-top: 10px;
+                        font-size: 32px;
+                    }
+                }
+                .cls{
+                    position: absolute;
+                    bottom: 1%;
+                    left: 35%;
+                    font-size: 28px;
+                }
+            }
+        }
+        .d45{
+            .inn{
+                width: 40%;
+                height: 230px;
+                z-index: 200;
+                background-color: white;
+                border: 2px solid black;
+                border-radius: 20px;
+                position: relative;
+                right: -25%;
+                bottom: 15%;
+                display: none;
+                .bot1, .bot2{
+                    font-size: 32px;
+                }
+                .inn1{
+                    position: absolute;
+                    left: -10%;
+                    list-style: none;
+                    .innl1{
+                        padding-top: 10px;
+                        font-size: 32px;
+                    }
+                }
+                .inn2{
+                    position: absolute;
+                    right: 3%;
+                    list-style: none;
+                    .innl2{
+                        padding-top: 10px;
+                        font-size: 32px;
+                    }
+                }
+                .cls{
+                    position: absolute;
+                    bottom: 1%;
+                    left: 35%;
+                    font-size: 28px;
+                }
+            }
+        }
+        .d46{
+            .inn{
+                width: 40%;
+                height: 230px;
+                z-index: 200;
+                background-color: white;
+                border: 2px solid black;
+                border-radius: 20px;
+                position: relative;
+                right: -25%;
+                bottom: 15%;
+                display: none;
+                .bot1, .bot2{
+                    font-size: 32px;
+                }
+                .inn1{
+                    position: absolute;
+                    left: -10%;
+                    list-style: none;
+                    .innl1{
+                        padding-top: 10px;
+                        font-size: 32px;
+                    }
+                }
+                .inn2{
+                    position: absolute;
+                    right: 3%;
+                    list-style: none;
+                    .innl2{
+                        padding-top: 10px;
+                        font-size: 32px;
+                    }
+                }
+                .cls{
+                    position: absolute;
+                    bottom: 1%;
+                    left: 35%;
+                    font-size: 28px;
+                }
+            }
+        }
+    }
+    .teext{
+        width: 60%;
+        height: 350px;
+        opacity: 1;
+        position: relative;
+        left: 20%;
+        .fh6, .sh6, .th6{
+            text-align: center;
+            color: gray;
+            font-size: 35px;
+        }
+    }
+    .fi{
+        width: 50%;
+        height: 150px;
+        background-color: white;
+        border: 1px solid black;
+        border-radius: 30px;
+        position: relative;
+        left: 25%;
+        .bf1{
+            position: absolute;
+            height: 85px;
+            right: 12%;
+            top: 15%;
+            font-size: 32px;
+        }
+        .ff{
+            width: 280px;
+            height: 85px;
+            border: 1px solid black;
+            border-radius: 20px;
+            background-color: blue;
+            position: absolute;
+            left: 10%;
+            top: 20%;
+            color: white;
+            .bf2{
+                position: absolute;
+                left: 5%;
+                font-size: 32px;
+                label{
+                    font-size: 32px;
+                }
+                .sel{
+                    border-radius: 20px;
+                    position: absolute;
+                    top: 40%;
+                    left: 140%;
+                    font-size: 32px;
+                }
+            }
+        }
+    }
+}
